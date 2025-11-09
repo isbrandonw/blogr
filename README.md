@@ -142,4 +142,3 @@ npx changelogen --release --push && npm publish
 
 In order to publish the release on npm, you need to be authenticated with the npm registry. You can do this by running `npm login`.  
 In order to publish the release on github, you need to be authenticated with the github registry. You can do this by creating a personal access token and setting it in your environment variables (GITHUB_TOKEN).
-
